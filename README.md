@@ -9,10 +9,9 @@ This PowerShell script imports **contacts** from an **VCF** file into Microsoft 
 
 ## Installation
 Clone the repository to your local computer:
-
 `git clone https://github.com/your-username/vcf_Outlook_formator.git`
-Navigate to the repository directory:
 
+Navigate to the repository directory:
 `cd vcf_Outlook_formator`
 
 ## Usage
