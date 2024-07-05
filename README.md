@@ -1,6 +1,6 @@
 # VCF_Outlook_formator
 
-This PowerShell script imports **contacts** from an **VCF** file into Microsoft **Outlook**.
+This PowerShell script imports **contacts** from an single **VCF** file into Microsoft **Outlook**.
 
 ## Prerequisites
 + Windows operating system
